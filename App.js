@@ -18,7 +18,7 @@ export default function App() {
   return ( 
     <NavigationContainer>
       <Stack.Navigator
-       initialRouteName="NewProject"
+       initialRouteName="Home"
        screenOptions={{
          headerMode: 'screen',
          headerTintColor: 'white',
