@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import React, { Component } from 'react';
 import NewProject from './src/screens/intreaction/NewProject';  
 import ProjectList from './src/screens/intreaction/ProjectList';
-import LoginScreen from './src/screens/connection/loginScreen';
+import LoginScreen from './src/screens/connection/LoginScreen';
 import HomeScreen from './src/screens/intreaction/HomeScreen';
 import Calcu1 from './src/screens/intreaction/calculations/Calcu1';
 import { createStackNavigator } from '@react-navigation/stack'
